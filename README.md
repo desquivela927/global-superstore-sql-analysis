@@ -38,5 +38,5 @@ y logística.
 - Window Functions (RANK, LAG, PARTITION BY)
 
 ## Autor
-Daniel — Ingeniero Industrial en transición a Data Analytics  
+Daniel Esquivel — Ingeniero Industrial en transición a Data Analytics  
 Bogotá, Colombia — 2026
