@@ -29,6 +29,22 @@ y logística.
 - **Same Day** tiene el costo de envío más alto pero el profit más bajo
 - 678 productos generan pérdidas dentro de categorías rentables
 
+## Dashboard Power BI
+Dashboard interactivo con 9 visualizaciones incluyendo:
+- KPIs ejecutivos (Total Sales, Total Profit, Profit Margin, Total Orders)
+- Análisis de ventas por categoría y región
+- Tendencia de ventas 2011-2014
+- Mapa geográfico de ventas por país
+- Filtros interactivos por Segment, Region y Year
+
+📊 Ver dashboard completo: Global superstore dashboard.pdf
+
+## Herramientas utilizadas
+- SQL (DB Browser for SQLite)
+- Power Query (ETL y limpieza de datos)
+- Power BI Desktop (visualización y DAX)
+- Dataset: Global Superstore (Kaggle)
+
 ## Técnicas SQL utilizadas
 - SELECT, WHERE, GROUP BY, HAVING, ORDER BY
 - JOINs (INNER JOIN, LEFT JOIN)
